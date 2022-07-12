@@ -12,10 +12,9 @@ Alternatively, in 2018 all the stocks in the dataset were negative, with the two
 Running the original code resulted in run times that were close to each other for 2017 and 2018:  0.621 and 0.633 seconds respectively.
 Similarly, the refactored code resulted in run times that were close to each other for 2017 and 2018:  0.078 and 0.070 seconds respectively.  These are shown in linked the linked images.
 ![2017 Stock Results](https://github.com/psvalent/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
-
+![2018 Stock Results](https://github.com/psvalent/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 It is noteworthy that on average the refactored code was approximately 89% faster than the original code.  These time savings are significant.
-
 
 ## Summary
 1:  What are the advantages or disadvantages of refactoring code?
